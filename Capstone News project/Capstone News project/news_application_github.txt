@@ -1,0 +1,6 @@
+News Application Capstone Project
+
+Student Name: Jacques Scheepers
+
+Repository URL:
+https://github.com/jauques/Capstone-Jango-Project
