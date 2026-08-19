@@ -1,0 +1,38 @@
+Dear Reviewer,
+
+Thank you for your feedback.
+
+I would like to express my concern regarding the inconsistent submission requirements I have received from different reviewers throughout this course.
+
+For previous submissions, I was specifically instructed to provide my project through a GitHub repository, and I therefore uploaded my completed News Application project to:
+
+Capstone Django Project Repository
+
+Based on that guidance, I understood that providing the GitHub repository containing the complete Django project was the expected submission method.
+
+However, the current feedback indicates that the reviewer expected the full project files to be uploaded directly within the JS25100019876 → Level 2 - Software Engineering → M06T08 – Capstone Project – News Application task folder, and therefore concluded that only the task documents were present.
+
+My concern is that there appears to be no consistent standard between reviewers. During my studies I have received different instructions, including:
+
+Upload the project to a public GitHub repository.
+Upload the entire project directly into the task submission folder.
+Upload a ZIP archive containing the project.
+Provide supporting documentation separately.
+
+This inconsistency makes it difficult to understand exactly what is expected and increases the risk of a project being marked as incomplete despite the work having been completed.
+
+I respectfully request clear and standardised submission instructions for this project. Specifically, I would appreciate confirmation of the following:
+
+Is a GitHub repository submission sufficient?
+Must the entire Django project also be uploaded directly to the HyperionDev task folder?
+Is a ZIP file required in addition to the GitHub repository?
+Which supporting documents are mandatory in the final submission?
+
+I have completed the project and submitted it according to the instructions provided by the previous reviewer. If additional files are required within the task folder itself, I am more than willing to resubmit them, but I would appreciate clear guidance to avoid further misunderstandings.
+
+Thank you for your time and assistance.
+
+Kind regards,
+
+Jacques Scheepers
+ Student ID: JS25100019876
